@@ -40,12 +40,16 @@ I'm Junior Software Developer.
 </a>
 </p>
 
+<p>Statistic:</p>
+<div>
+  <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedKaradas&layout=compact&count_private=true&show_icons=true&hide=matlab,dart,c,cpp,Jupyter%20Notebook,C%2B%2B,css,html,hack,assembly" />
+</a>
+</div>
+<br>
 <div>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammedKaradas&show_icons=true&show_icons=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedKaradas&count_private=true&show_icons=true&hide=matlab,dart,c" />
 </a>
 </div>
 <!--
