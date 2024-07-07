@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Junior Software Developer.
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammedKaradas&show_icons=true&show_icons=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedKaradas&count_private=true&show_icons=true&hide=matlab,dart,c" />
+</a>
+
 <!--
 **MuhammedKaradas/MuhammedKaradas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
