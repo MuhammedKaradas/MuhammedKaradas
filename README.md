@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Junior Software Developer.
+I'm Software Developer.
 
 <p>🔭 I’m currently working on:</p>
 <p align="left">
@@ -11,7 +11,7 @@ I'm Junior Software Developer.
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet-core" width="40" height="40" />
 </a>
 <a href="https://learn.microsoft.com/en-us/previous-versions/dotnet/framework" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40" />
 </a>
 <a href="https://angular.dev" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="45" height="45" />
